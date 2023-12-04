@@ -12,7 +12,9 @@ Final Train Loss: 470.9010985009372
 
 Activation: ELU, Learning Rate: 0.1, Dropout Rate: 0
 Final Train Accuracy: 97.0, Final Test Accuracy: 89.62
-Final Train Loss: 144.4793941001853
+Final Train Loss: 144.47939410018tj53
+
+
 
 Activation: ReLU, Learning Rate: 0.001, Dropout Rate: 0
 Final Train Accuracy: 88.45666666666666, Final Test Accuracy: 87.05
@@ -29,6 +31,8 @@ Final Train Loss: 4335.176897764206
 Activation: ReLU, Learning Rate: 10, Dropout Rate: 0
 Final Train Accuracy: 10.0, Final Test Accuracy: 10.0
 Final Train Loss: nan
+
+
 
 Activation: ReLU, Learning Rate: 0.1, Dropout Rate: 0.3
 Final Train Accuracy: 98.94833333333334, Final Test Accuracy: 90.51
