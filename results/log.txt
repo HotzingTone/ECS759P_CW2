@@ -1,0 +1,35 @@
+Activation: ReLU, Learning Rate: 0.1, Dropout Rate: 0
+Final Train Accuracy: 98.04833333333333, Final Test Accuracy: 89.53
+Final Train Loss: 75.20303861607954
+
+Activation: Tanh, Learning Rate: 0.1, Dropout Rate: 0
+Final Train Accuracy: 100.0, Final Test Accuracy: 91.77
+Final Train Loss: 0.4370529776379044
+
+Activation: Sigmoid, Learning Rate: 0.1, Dropout Rate: 0
+Final Train Accuracy: 90.92166666666667, Final Test Accuracy: 89.25
+Final Train Loss: 470.9010985009372
+
+Activation: ELU, Learning Rate: 0.1, Dropout Rate: 0
+Final Train Accuracy: 97.0, Final Test Accuracy: 89.62
+Final Train Loss: 144.4793941001853
+
+Activation: ReLU, Learning Rate: 0.001, Dropout Rate: 0
+Final Train Accuracy: 88.45666666666666, Final Test Accuracy: 87.05
+Final Train Loss: 621.8086509294808
+
+Activation: ReLU, Learning Rate: 0.5, Dropout Rate: 0
+Final Train Accuracy: 10.0, Final Test Accuracy: 10.0
+Final Train Loss: 4326.251206874847
+
+Activation: ReLU, Learning Rate: 1, Dropout Rate: 0
+Final Train Accuracy: 10.0, Final Test Accuracy: 10.0
+Final Train Loss: 4335.176897764206
+
+Activation: ReLU, Learning Rate: 10, Dropout Rate: 0
+Final Train Accuracy: 10.0, Final Test Accuracy: 10.0
+Final Train Loss: nan
+
+Activation: ReLU, Learning Rate: 0.1, Dropout Rate: 0.3
+Final Train Accuracy: 98.94833333333334, Final Test Accuracy: 90.51
+Final Train Loss: 77.99414897139741
